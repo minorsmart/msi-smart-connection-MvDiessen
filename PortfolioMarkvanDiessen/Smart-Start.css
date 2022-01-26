@@ -35,6 +35,10 @@
   margin: 43px 0 53px;
 }
 
+.u-section-3 .u-btn-1 {
+  margin: 33px auto 60px;
+}
+
 @media (max-width: 1199px) {
   .u-section-1 .u-text-2 {
     width: 803px;
@@ -228,7 +232,7 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 1041px;
+  min-height: 10px;
 }
 
 .u-section-3 .u-text-1 {
